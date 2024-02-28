@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ll/git/DHT_OTA/firmware/build/CMakeFiles/bootloader
+/home/ll/git/DHT_OTA/firmware/build/CMakeFiles/bootloader.rule
+/home/ll/git/DHT_OTA/firmware/build/CMakeFiles/bootloader-complete.rule
+/home/ll/git/DHT_OTA/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ll/git/DHT_OTA/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ll/git/DHT_OTA/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ll/git/DHT_OTA/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ll/git/DHT_OTA/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ll/git/DHT_OTA/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ll/git/DHT_OTA/firmware/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
